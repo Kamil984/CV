@@ -64,8 +64,7 @@ body{
     text-align: center;
 }
 .message img{
-    width: 200px;
-    height: 170px;
+    width: 300px;
 }
 section{
     margin-top: 1rem;
@@ -130,4 +129,5 @@ div.my-information{
     text-decoration: none;
 
 }
+
 
